@@ -1,0 +1,2 @@
+But wait, what is happening, it seems that someone else is in control of Git, changing his path while he is walking.
+With this great obstacle, how is Git now supposed to fulfill his duty as a hero on this quest. 
