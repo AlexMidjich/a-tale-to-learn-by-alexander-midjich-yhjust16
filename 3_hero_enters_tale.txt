@@ -1,4 +1,4 @@
 In a small hut at the edge of the forest we find the hero of our tale, a hero that goes by the name Git.
 This is a hero like no other because, you see, Git dosn't know a thing about what it means to be a hero.
 Git usualy just relax in his hut, in front of his computer doing what he nows best, namely pulling and pushing
-others repositorys.
+others repositorys. To assist him, Git always carry with him his laptop.
