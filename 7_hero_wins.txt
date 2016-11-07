@@ -1,3 +1,3 @@
 Fear not because Git has a sharp mind and he can see that what is happening is that someone is trying to merge a different path
-than the one Git wants to go. He goes over the different paths and integrate the differences, he remembers to commit his changes
+than the one Git wants to go. He goes over the different paths with Shell and integrates the differences, he remembers to commit his changes
 befor he pushes through to his destination.
