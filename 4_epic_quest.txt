@@ -1,1 +1,1 @@
-When working on a repository Git runs into a conflict. In order to solve it he must find the respositories owner on the other side of the enchanted forest.
+While working on a repository Git runs into a conflict. Cluster and his evil ways have fragmented the repositories and in order to solve it he must find the respository owner on the other side of the enchanted forest.
