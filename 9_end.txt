@@ -1,1 +1,2 @@
-And now we have reached the end of this tale.  
+Git reaches the other side of the enchanted forest and quickly resolves the conflics after a short discussion on which solution to use. Git can wonder home again joyfully.
+And now we have reached the end of this tale.

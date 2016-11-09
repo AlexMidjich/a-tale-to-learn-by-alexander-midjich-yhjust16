@@ -1,3 +1,3 @@
 Cluster the evil fragment that destructs the world. Cluster also has his cheat sheet with different commands at his service.
-The cheat sheet is white and with black letters in a clear font.
+The cheat sheet is white and with black letters in a clear font. It holds many common git commands and can save a lot of time when typing them.
 

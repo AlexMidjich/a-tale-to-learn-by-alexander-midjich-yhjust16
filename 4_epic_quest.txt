@@ -1,1 +1,1 @@
-When working on a repository Git runs into a conflict. In order to solve it he must find the respositories owner on the other side of the enchanted forest.
+When working on a repository Git runs into a conflict. In order to solve it he must find the respositories owner on the other side of the enchanted forest, to discuss the solutions and come up with the best one.
