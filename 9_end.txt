@@ -1,3 +1,2 @@
 Git reaches the other side of the enchanted forest and quickly resolves the conflics after a short discussion on which solution to use.
-Git can wander home again joyfully. And now we have reached the end of this tale.
-
+Git can wander home again joyfully. And now we have reached the end of this tale about Git and his sidekick Cluster.  
