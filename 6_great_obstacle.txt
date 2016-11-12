@@ -1,2 +1,3 @@
-But wait, what is happening, it seems that someone else is in control of Git, changing his path while he is walking. It most be the Cluster and his nifty cheat sheet helping him type commands too fast for Git to keep up.
-With this great obstacle, how is Git now supposed to fulfill his duty as a hero on this quest. 
+But wait, what is happening, it seems that someone else is in control of Git, changing his path while he is walking. It most be the Cluster
+and his nifty cheat sheet helping him type commands too fast for Git to keep up.
+With this great obstacle thrown at him, how is Git now supposed to fulfill his duty as a hero on this quest. 
